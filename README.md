@@ -33,5 +33,5 @@ cd Colors Webpage
 
 <h2>Link on video:</h2>
 
-<a href="https://youtu.be/3-2Pj5hxwrw"><p align="center">PRESS HERE TO WATCH</p></a>
+<p align="center"><a href="https://www.youtube.com/watch?v=3-2Pj5hxwrw">PRESS HERE TO WATCH</a></p>
 
