@@ -3,7 +3,7 @@
 <h2>Pages:</h2>
 
 <h2 align="center">Desktop Version:</h2>
-<p align="center"><img src="assets/full-desktop.jpeg" height="550px"/></p>
+<p align="center"><img src="assets/full-desktop.png" height="550px"/></p>
 
 
 <hr>
@@ -12,9 +12,9 @@
 
 <p align="center">
 <br/>
-<img src="git/full-mobile.jpeg" height="550px"/>
+<img src="git/full-mobile.png" height="550px"/>
 &nbsp;
-<img src="git/navbar-mobile.jpeg" height="550px"/>
+<img src="git/navbar-mobile.png" height="550px"/>
 </p>
 
 
