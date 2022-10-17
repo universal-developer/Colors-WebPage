@@ -12,9 +12,9 @@
 
 <p align="center">
 <br/>
-<img src="git/full-mobile.png" height="550px"/>
+<img src="assets/full-mobile.png" height="550px"/>
 &nbsp;
-<img src="git/navbar-mobile.png" height="550px"/>
+<img src="assets/navbar-mobile.png" height="550px"/>
 </p>
 
 
